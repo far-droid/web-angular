@@ -1,0 +1,7 @@
+{
+  "name": "pmb_uas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
